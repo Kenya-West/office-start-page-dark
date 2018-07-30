@@ -1,0 +1,153 @@
+/*GLOBAL*/
+
+.fluent-background-color {
+    background-color: #101010;
+}
+
+/*Titles*/
+
+.section.section--fluent h2,
+.section-header--flex .section-header__title.section-header__title--fluent {
+    color: #DDDDDD;
+}
+
+.list-header__title.list-header__title--fluent {
+    color: #CCCCCC;
+}
+
+/*Items*/
+
+.list-item--shadowed:hover {
+    background-color: #333333;
+}
+
+.expandable-list__item--bordered:first-child.expandable-list__item--fluent {
+    border-color: #333333;
+}
+
+.expandable-list__item--bordered {
+    border-color: #333333;
+}
+
+.ms-Callout-main {
+    background-color: #212121;
+}
+
+.workload-item--fluent--provisioned:hover {
+    background-color: #333333 !important;
+}
+
+/*Texts*/
+
+.section--fluent .list-item__text--large {
+    color: #CCCCCC;
+}
+
+.workload-item__name--fluent {
+    color: #CCCCCC;
+}
+
+.list-item__text--small {
+    color: #DDDDDD;
+}
+
+/*BUTTONS*/
+
+.generic-button--fluent--secondary,
+.generic-button--fluent--primary {
+    background-color: #212121;
+    color: #FFFFFF;
+}
+
+.generic-button--fluent--secondary:hover,
+.generic-button--fluent--primary:hover {
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+.commanding-item:focus,
+.commanding-item:hover {
+    background-color: #333333;
+}
+
+.actions-menu.ms-Callout .menu-item,
+.menu-item {
+    background-color: #212121;
+    color: #FFFFFF;
+}
+
+.menu-item:focus,
+.menu-item:hover {
+    background-color: #333333 !important;
+}
+
+.menu-item__title {
+    color: #FFFFFF;
+}
+
+/*Office 365 navbar*/
+
+.o365sx-navbar {
+    background-color: #000000;
+}
+
+.o365sx-appName,
+.o365sx-appName:hover {
+    color: #DDDDDD;
+}
+
+.o365sx-waffle {
+    background-color: #000000;
+    color: #DDDDDD;
+}
+
+.o365sx-button {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.o365sx-neutral-lighterAlt-background,
+.o365sx-neutral-lighterAlt-hover-background:hover {
+    background-color: #212121;
+}
+
+.o365sx-neutral-dark-font,
+.o365sx-neutral-dark-hover-font:hover {
+    color: #CCCCCC;
+}
+
+.o365sx-neutral-secondary-font,
+.o365sx-neutral-secondary-hover-font:hover {
+    color: #DDDDDD;
+}
+
+.o365sx-button:hover {
+    background-color: #212121;
+    box-shadow: 0 -9px 15px 4px #000000;
+}
+
+._2_T0Im6ostMX7PPGpbrJGj {
+    background-color: #212121;
+}
+
+._1A3uXjsN5xo_84FKeEt3-z:hover {
+    background-color: #333333 !important;
+}
+
+._3ChjdrgMKOROcCP2ukT_Bl {
+    color: #DDDDDD;
+}
+
+._1A3uXjsN5xo_84FKeEt3-z {
+    color: #FFFFFF;
+}
+
+.GluoxRaAop_OrXqwdKl8V:hover[href],
+._2uP41FE6jXAyxStMdwLr5b {
+    border: none;
+}
+
+a:focus,
+a:hover {
+    color: #CCCCCC;
+}
